@@ -1,0 +1,5 @@
+8965:C 08 Feb 2020 15:33:47.636 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8965:C 08 Feb 2020 15:33:47.638 # Redis version=5.0.7, bits=64, commit=00000000, modified=0, pid=8965, just started
+8965:C 08 Feb 2020 15:33:47.638 # Configuration loaded
+8965:M 08 Feb 2020 15:33:47.640 * Increased maximum number of open files to 10032 (it was originally set to 8192).
+8965:M 08 Feb 2020 15:33:47.643 # Could not create server TCP listening socket *:6382: bind: Address already in use
